@@ -172,6 +172,7 @@ mediatek_setup_interfaces()
 	huasifei,wh3000|\
 	huasifei,wh3000-pro-emmc|\
 	huasifei,wh3000-pro-nand|\
+	nradio,c2000-max|\
 	wavlink,wl-wnt100x3|\
 	wavlink,wl-wnt100x3-ubootmod)
 		ucidef_set_interfaces_lan_wan eth0 eth1
